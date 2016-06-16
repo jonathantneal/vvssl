@@ -1,0 +1,15 @@
+{
+  "cantFindVagrant":    "Sorry, we had trouble finding your vagrant installation.",
+	"cantFindDir":        "Sorry, we had trouble finding a directory for {name}.",
+	"cantCreateKey":      "Sorry, we had trouble creating a site key for {name}.",
+	"cantCreateCert":     "Sorry, we had trouble creating a site certificate for {name}.",
+	"cantUpdateKeychain": "Sorry, we had trouble updating your keychain.",
+	"cantRestartNginx":   "Sorry, we had trouble updating your vagrant.",
+	"cantFindConfig":     "Sorry, we had trouble finding {name}.",
+	"cantReadConfig":     "Sorry, we had trouble reading {name}.",
+	"cantWriteConfig":    "Sorry, we had trouble updating {name}.",
+	"cantParseConfig":    "Sorry, we had trouble understanding the configuration for {name}.",
+	"cantFindServer":     "Sorry, we had trouble finding server details for {name}.",
+	"cantFindDir":        "Sorry, we had trouble finding the directory for {name}.",
+	"cantFindDomain":     "Sorry, we had trouble finding the domain for {name}."
+}
